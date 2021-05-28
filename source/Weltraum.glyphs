@@ -1,9 +1,9 @@
 {
 .appVersion = "3058";
 DisplayStrings = (
-"AABACADAEAFAGAHAIAJAK\012\012ALAMANAOAPAQA/space RASATAU\012\012AVAWAXAYAZA/space AS/space A\012\012A-AAAA./space A/space A/space A:/space A/space A!\012\012BABBCBDBEBFBGBHBIBJBK\012\012BLBMBNBOBPBQBRBSBTBU\012\012BVBWBXBYBZB/space BS/space B\012\012B-BBBB./space B/space B/space B:/space B/space B!\012\012CACBCCDCECFCGCHCICJCK\012\012CLCMCNCOCPCQCRCSCTCU\012\012CVCWCXCYCZC/space CS/space C\012\012C-CCCC./space C/space C/space C:/space C/space C!\012\012DADBDCDDEDFDGDHDIDJDK\012\012DLDMDNDODPDQDRDSDTDU\012\012DVDWDXDYDZD/space DS/space DDD\012\012D-DDDD./space D/space D/space D:/space D/space D!\012\012EAEBECEDEEFEGEHEIEJEK\012\012ELEMENEOEPEQERESETEU\012\012EVEWEXEYEZE/space ES/space E\012\012E-EEEE./space E/space E/space E:/space E/space E!\012\012FAFBFCFDFEFFGFHFIFJFKJP\012\012FLFMFNFOFPFQFRFSFTFU\012\012FVFWFXFYFZF/space FS/space F\012\012F-FFFF./space F/space F/space F:/space F/space F!\012\012GAGBGCGDGEGFGGHGIGJGK\012\012GLGMGNGOGPGQGRGSGTGU\012\012GVGWGXGYGZG/space GS/space G\012\012G-GGGG./space G/space G/space G:/space G/space G!\012\012HAHBHCHDHEHFHGHHIHJHK\012\012HLHMHNHOHPHQHRHSHTHU\012\012HVHWHXHYHZH/space HS/space H\012\012H-HHHH./space H/space H/space H:/space H/space H!\012\012IAIBICIDIEIFIGIHIIJIK\012\012ILIMINIOIPIQIRISITIUIVIWIXIYIZ\012\012IS/space II-IIII./space I/space I/space I:/space I/space I!\012\012JAJBJCJDJEJFJGJHJIJJK\012\012JLJMJNJOJPJQJRJSJTJU\012\012JVJWJXJYJZJ/space JS/space J\012\012J-JJJJ./space J/space J/space J:/space J/space J!\012\012KAKBKCKDKEKFKGKHKIKJK\012\012KLKMKNKOKPKQKRKSKTKU\012\012KVKWKXKYKZK/space KS/space K\012\012K-KKKK./space K/space K/space K:/space K/space K!\012\012LALBLCLDLELFLGLHLILJLK\012\012LLMLNLOLPLQLRLSLTLU\012\012LVLWLXLYLZL/space LS/space L\012\012L-LLLL./space L/space L/space L:/space LL\012\012L!MAMBMCMDMEMFMGMHMIMJMK\012\012MLMMNMOMPMQMRMSMTMU\012\012MVMWMXMYMZM/space MS/space M\012\012M-MMMM./space M/space M/space M:/space M/space M!\012\012NANBNCNDNENFNGNHNINJNK\012\012NLNMNNNONPNQNRNSNTNU\012\012NVNWNXNYNZN/space NS/space N\012\012N-NNNN./space N/space N/space N:/space N/space N!\012\012OAOBOCODOEOFOGOHOIOJOK\012\012OLOMONOOPOQOROSOTOU\012\012OVOWOXOYOZO/space OS/space O\012\012O-OOOO./space O/space O/space O:/space O/space O!\012\012PAPBPCPDPEPFPGPHPIPJPK\012\012PLPMPNPOPPQPRPSPTPU\012\012PVPWPXPYPZP/space PS/space P\012\012P-PPPPP./space P/space P/space P:/space P/space P!\012\012QAQBQCQDQEQFQGQHQIQJQK\012\012QLQMQNQOQPQQRQSQTQU\012\012QVQWQXQYQZQ/space QS/space Q\012\012Q-QQQQ./space Q/space Q/space Q:/space Q/space Q!\012\012RARBRCRDRERFRGRHRIRJRK\012\012RLRMRNRORPRQRRSRTRU\012\012RVRWRXRYRZR/space RS/space R\012\012R-RRRR./space R/space R/space R:/space R/space R!\012\012SASBSCSDSESFSGSHSISJSK\012\012SLSMSNSOSPSQSRSSTSU\012\012SVSWSXSYSZS/space SS/space S\012\012S-SSSS./space S/space S/space S:/space S/space S!\012\012TATBTCTDTETFTGTHTITJTK\012\012TLTMTNTOTPTQTRTSTTU\012\012TVTWTXTYTZT/space TS/space T\012\012T-TTTT./space T/space T/space T:/space T/space T!\012\012UAUBUCUDUEUFUGUHUIUJUK\012\012ULUMUNUOUPUQURUSUTUU\012\012UVUWUXUYUZU/space US/space U\012\012U-UUUU./space U/space U/space U:/space U/space U!\012\012VAVBVCVDVEVFVGVHVIVJVK\012\012VLVMVNVOVPVQVRVSVTVU\012\012VVWVXVYVZV/space VS/space V\012\012V-VVVV./space V/space V/space V:/space V/space V!\012\012WAWBWCWDWEWFWGWHWIWJWK\012\012WLWMWNWOWPWQWRWSWTWU\012\012WVWWXWYWZW/space WS/space W\012\012W-WWWW./space W/space W/space W:/space W/space W!\012\012XAXBXCXDXEXFXGXHXXIXJXK\012\012XLXMXNXOXPXQXRXSXTXU\012\012XVXWXXYXZX/space XS/space X\012\012X-XXXX./space X/space X/space X:/space X/space X!\012\012YAYBYCYDYEYFYGYHYIYJYK\012\012YLYMYNYOYPYQYRYSYTYU\012\012YVYWYXYYZY/space YS/space Y\012\012Y-YYYY./space Y/space Y/space Y:/space Y/space Y!\012\012ZAZBZCZDZEZFZGZHZIZJZK\012\012ZLZMZNZOZPZQZRZSZTZU\012\012ZVZWZXZYZZ/space ZS/space Z\012\012Z-ZZZZ./space Z/space Z/space Z:/space Z/space Z!\012\012,A,.A.\012,O,.O.\012,F,.F.\012,H,.H.\012,K,.K.\012,T,.T.\012,V,.V.\012,W,.W.\012,X,.X.\012,Y,.Y.\012.1.4.7.9.8\012,1,4,7,/seven.ss01 ,9,8I\012O_P_R_V_W_Y_F_\012_T_1_7_/seven.ss01 _4_9_\012\012A-A/space B-B/space C-C/space D-D\012E-E/space F-F/space H-H/space J-J\012L-L/space P-P/space Q-Q/space R-R/space T-T/space V-V/space W-W/space X-X\012Y-Y/space Z-Z/space O-O/space K-K\012-1-2-3-4-5-6-7-/seven.ss01 -8-9-0\012O//O/space A//A\012B//B/space F//F\012H//H/space J//J\012K//K/space L//L\012P//P/space Q//Q\012R//R/space T//T\012V//V/space W//W\012X//X/space Y//Y/space Z//Z\012//1//2//3//4//5//6//7///seven.ss01//8//9///backslash 1/backslash 2/backslash 3/backslash 4/backslash 5/backslash 6/backslash 7/backslash/seven.ss01/backslash 8/backslash 9/backslash \012O-//-/backslash -O\012O/backslash O/space A/backslash A/space B/backslash B\012H/backslash H/space J/backslash J/space K/backslash K/space L/backslash L\012P/backslash P/space R/backslash R/space T/backslash T/space V/backslash V\012W/backslash W/space Y/backslash Y\012\012L/A.left VAV/A.right J",
+"AABACADAEAFAGAHAIAJAK\012\012ALAMANAOAPAQA/space RASATAU\012\012AVAWAXAYAZA/space AS/space A\012\012A-AAAA./space A/space A/space A:/space A/space A!\012\012BABBCBDBEBFBGBHBIBJBK\012\012BLBMBNBOBPBQBRBSBTBU\012\012BVBWBXBYBZB/space BS/space B\012\012B-BBBB./space B/space B/space B:/space B/space B!\012\012CACBCCDCECFCGCHCICJCK\012\012CLCMCNCOCPCQCRCSCTCU\012\012CVCWCXCYCZC/space CS/space C\012\012C-CCCC./space C/space C/space C:/space C/space C!\012\012DADBDCDDEDFDGDHDIDJDK\012\012DLDMDNDODPDQDRDSDTDU\012\012DVDWDXDYDZD/space DS/space DDD\012\012D-DDDD./space D/space D/space D:/space D/space D!\012\012EAEBECEDEEFEGEHEIEJEK\012\012ELEMENEOEPEQERESETEU\012\012EVEWEXEYEZE/space ES/space E\012\012E-EEEE./space E/space E/space E:/space E/space E!\012\012FAFBFCFDFEFFGFHFIFJFKJP\012\012FLFMFNFOFPFQFRFSFTFU\012\012FVFWFXFYFZF/space FS/space F\012\012F-FFFF./space F/space F/space F:/space F/space F!\012\012GAGBGCGDGEGFGGHGIGJGK\012\012GLGMGNGOGPGQGRGSGTGU\012\012GVGWGXGYGZG/space GS/space G\012\012G-GGGG./space G/space G/space G:/space G/space G!\012\012HAHBHCHDHEHFHGHHIHJHK\012\012HLHMHNHOHPHQHRHSHTHU\012\012HVHWHXHYHZH/space HS/space H\012\012H-HHHH./space H/space H/space H:/space H/space H!\012\012IAIBICIDIEIFIGIHIIJIK\012\012ILIMINIOIPIQIRISITIUIVIWIXIYIZ\012\012IS/space II-IIII./space I/space I/space I:/space I/space I!\012\012JAJBJCJDJEJFJGJHJIJJK\012\012JLJMJNJOJPJQJRJSJTJU\012\012JVJWJXJYJZJ/space JS/space J\012\012J-JJJJ./space J/space J/space J:/space J/space J!\012\012KAKBKCKDKEKFKGKHKIKJK\012\012KLKMKNKOKPKQKRKSKTKU\012\012KVKWKXKYKZK/space KS/space K\012\012K-KKKK./space K/space K/space K:/space K/space K!\012\012LALBLCLDLELFLGLHLILJLK\012\012LLMLNLOLPLQLRLSLTLU\012\012LVLWLXLYLZL/space LS/space L\012\012L-LLLL./space L/space L/space L:/space LL\012\012L!MAMBMCMDMEMFMGMHMIMJMK\012\012MLMMNMOMPMQMRMSMTMU\012\012MVMWMXMYMZM/space MS/space M\012\012M-MMMM./space M/space M/space M:/space M/space M!\012\012NANBNCNDNENFNGNHNINJNK\012\012NLNMNNNONPNQNRNSNTNU\012\012NVNWNXNYNZN/space NS/space N\012\012N-NNNN./space N/space N/space N:/space N/space N!\012\012OAOBOCODOEOFOGOHOIOJOK\012\012OLOMONOOPOQOROSOTOU\012\012OVOWOXOYOZO/space OS/space O\012\012O-OOOO./space O/space O/space O:/space O/space O!\012\012PAPBPCPDPEPFPGPHPIPJPK\012\012PLPMPNPOPPQPRPSPTPU\012\012PVPWPXPYPZP/space PS/space P\012\012P-PPPPP./space P/space P/space P:/space P/space P!\012\012QAQBQCQDQEQFQGQHQIQJQK\012\012QLQMQNQOQPQQRQSQTQU\012\012QVQWQXQYQZQ/space QS/space Q\012\012Q-QQQQ./space Q/space Q/space Q:/space Q/space Q!\012\012RARBRCRDRERFRGRHRIRJRK\012\012RLRMRNRORPRQRRSRTRU\012\012RVRWRXRYRZR/space RS/space R\012\012R-RRRR./space R/space R/space R:/space R/space R!\012\012SASBSCSDSESFSGSHSISJSK\012\012SLSMSNSOSPSQSRSSTSU\012\012SVSWSXSYSZS/space SS/space S\012\012S-SSSS./space S/space S/space S:/space S/space S!\012\012TATBTCTDTETFTGTHTITJTK\012\012TLTMTNTOTPTQTRTSTTU\012\012TVTWTXTYTZT/space TS/space T\012\012T-TTTT./space T/space T/space T:/space T/space T!\012\012UAUBUCUDUEUFUGUHUIUJUK\012\012ULUMUNUOUPUQURUSUTUU\012\012UVUWUXUYUZU/space US/space U\012\012U-UUUU./space U/space U/space U:/space U/space U!\012\012VAVBVCVDVEVFVGVHVIVJVK\012\012VLVMVNVOVPVQVRVSVTVU\012\012VVWVXVYVZV/space VS/space V\012\012V-VVVV./space V/space V/space V:/space V/space V!\012\012WAWBWCWDWEWFWGWHWIWJWK\012\012WLWMWNWOWPWQWRWSWTWU\012\012WVWWXWYWZW/space WS/space W\012\012W-WWWW./space W/space W/space W:/space W/space W!\012\012XAXBXCXDXEXFXGXHXXIXJXK\012\012XLXMXNXOXPXQXRXSXTXU\012\012XVXWXXYXZX/space XS/space X\012\012X-XXXX./space X/space X/space X:/space X/space X!\012\012YAYBYCYDYEYFYGYHYIYJYK\012\012YLYMYNYOYPYQYRYSYTYU\012\012YVYWYXYYZY/space YS/space Y\012\012Y-YYYY./space Y/space Y/space Y:/space Y/space Y!\012\012ZAZBZCZDZEZFZGZHZIZJZK\012\012ZLZMZNZOZPZQZRZSZTZU\012\012ZVZWZXZYZZ/space ZS/space Z\012\012Z-ZZZZ./space Z/space Z/space Z:/space Z/space Z!\012\012,A,.A.\012,O,.O.\012,F,.F.TI\012,H,.H.\012,K,.K.\012,T,.T.\012,V,.V.\012,W,.W.\012,X,.X.\012,Y,.Y.\012.1.4.7.9.8\012,1,4,7,/seven.ss01 ,9,8I\012O_P_R_V_W_Y_F_\012_T_1_7_/seven.ss01 _4_9_\012STEP_UP\012A-A/space B-B/space C-C/space D-D\012E-E/space F-F/space H-H/space J-J\012L-L/space P-P/space Q-Q/space R-R/space T-T/space V-V/space W-W/space X-X\012Y-Y/space Z-Z/space O-O/space K-K\012-1-2-3-4-5-6-7-/seven.ss01 -8-9-0\012O//O/space A//A\012B//B/space F//F\012H//H/space J//J\012K//K/space L//L\012P//P/space Q//Q\012R//R/space T//T\012V//V/space W//W\012X//X/space Y//Y/space Z//Z\012//1//2//3//4//5//6//7///seven.ss01//8//9///backslash 1/backslash 2/backslash 3/backslash 4/backslash 5/backslash 6/backslash 7/backslash/seven.ss01/backslash 8/backslash 9/backslash \012O-//-/backslash -O\012O/backslash O/space A/backslash A/space B/backslash B\012H/backslash H/space J/backslash J/space K/backslash K/space L/backslash L\012P/backslash P/space R/backslash R/space T/backslash T/space V/backslash V\012W/backslash W/space Y/backslash Y\012\012L/A.left VAV/A.right J",
 "ABCDEFGHIJKLMNOPQRSTUVWXYZ\01201234567/seven.ss01 89S_,.:!-///backslash",
-"MONDLANDUNG\012MONDL/A.left NDUNG\012DEEP/space SPACE/space NINE\012ALIEN/space ROCKET,/space STAR/space ATA/space STERN/space ORBIT/space ISS/space WELTRAUM/space 1969/space DISCOVERY/space C3-PO/space SOLAR-SYSTEM:/space MARS/space R2-D2/space SOLO/space X-WING//T-FIGHTER\012TATOOINE/space NASA\012GROUND_CONTROL\01216./space JULI/space 1969",
+"MONDLANDUNG\012MONDL/A.left NDUNG\012DEEP/space SPACE/space NINE\012ALIEN/space ROCKET,/space STAR/space STERN/space ORBIT/space ISS/space VWMN/space WELTRAUM/space 1969/space DISCOVERY/space C3-PO/space SOLAR_SYSTEM:/space MARS/space R2-D2/space SOLO/space X-WING//T-FIGHTER\012MILLENIUM/space FALCON\012TATOOINE/space NASA\012GROUND_CONTROLVOLL\01216./space JULI/space 1969\012",
 "//",
 _,
 "C-MN/space/C.ss01/M.ss01/N.ss01/space \012ONDLANDUNG"
@@ -783,7 +783,7 @@ unicode = 0049;
 },
 {
 glyphname = J;
-lastChange = "2021-05-26 11:21:04 +0000";
+lastChange = "2021-05-28 10:37:13 +0000";
 layers = (
 {
 associatedMasterId = "6F88C01E-B907-4531-B067-43292AD644AF";
@@ -2075,7 +2075,7 @@ unicode = 0056;
 },
 {
 glyphname = W;
-lastChange = "2021-05-26 10:43:39 +0000";
+lastChange = "2021-05-28 10:26:58 +0000";
 layers = (
 {
 hints = (
@@ -2240,7 +2240,7 @@ unicode = 0058;
 },
 {
 glyphname = Y;
-lastChange = "2021-05-27 09:53:34 +0000";
+lastChange = "2021-05-28 10:35:05 +0000";
 layers = (
 {
 hints = (
@@ -2830,7 +2830,7 @@ unicode = 0030;
 },
 {
 glyphname = one;
-lastChange = "2021-05-27 10:34:15 +0000";
+lastChange = "2021-05-28 10:38:36 +0000";
 layers = (
 {
 hints = (
@@ -3063,7 +3063,7 @@ unicode = 0033;
 },
 {
 glyphname = four;
-lastChange = "2021-05-27 10:50:56 +0000";
+lastChange = "2021-05-28 10:35:25 +0000";
 layers = (
 {
 hints = (
@@ -3257,7 +3257,7 @@ unicode = 0036;
 },
 {
 glyphname = seven;
-lastChange = "2021-05-27 10:34:35 +0000";
+lastChange = "2021-05-28 10:35:20 +0000";
 layers = (
 {
 hints = (
@@ -3410,7 +3410,7 @@ unicode = 0038;
 },
 {
 glyphname = nine;
-lastChange = "2021-05-27 10:34:42 +0000";
+lastChange = "2021-05-28 10:40:37 +0000";
 layers = (
 {
 associatedMasterId = "6F88C01E-B907-4531-B067-43292AD644AF";
@@ -3610,7 +3610,7 @@ unicode = 0020;
 },
 {
 glyphname = period;
-lastChange = "2021-05-26 11:23:39 +0000";
+lastChange = "2021-05-28 10:43:39 +0000";
 layers = (
 {
 hints = (
@@ -3659,7 +3659,7 @@ unicode = 002E;
 },
 {
 glyphname = comma;
-lastChange = "2021-05-27 10:36:15 +0000";
+lastChange = "2021-05-28 10:51:19 +0000";
 layers = (
 {
 hints = (
@@ -3924,7 +3924,7 @@ unicode = 005C;
 },
 {
 glyphname = hyphen;
-lastChange = "2021-05-27 10:48:13 +0000";
+lastChange = "2021-05-28 10:40:09 +0000";
 layers = (
 {
 layerId = "6F88C01E-B907-4531-B067-43292AD644AF";
@@ -3958,7 +3958,7 @@ unicode = 002D;
 },
 {
 glyphname = underscore;
-lastChange = "2021-05-27 10:32:16 +0000";
+lastChange = "2021-05-28 10:35:09 +0000";
 layers = (
 {
 hints = (
@@ -4022,16 +4022,16 @@ V = -60;
 Y = -60;
 backslash = -20;
 colon = -100;
-hyphen = -10;
+hyphen = -20;
 one = -60;
 };
 "@MMK_L_C" = {
-hyphen = -50;
+hyphen = -140;
 };
 "@MMK_L_F" = {
 "@MMK_R_A" = -60;
 "@MMK_R_period" = -160;
-"@MMK_R_underscore" = -150;
+"@MMK_R_underscore" = -180;
 H = -120;
 J = -220;
 K = -90;
@@ -4042,14 +4042,14 @@ slash = -60;
 "@MMK_L_P" = {
 "@MMK_R_A" = -30;
 "@MMK_R_period" = -120;
-"@MMK_R_underscore" = -150;
+"@MMK_R_underscore" = -180;
 J = -170;
 slash = -40;
 };
 "@MMK_L_R" = {
 "@MMK_R_A" = -30;
 "@MMK_R_period" = -120;
-"@MMK_R_underscore" = -150;
+"@MMK_R_underscore" = -180;
 J = -170;
 slash = -40;
 };
@@ -4061,7 +4061,7 @@ H = -20;
 J = -60;
 K = -20;
 colon = -30;
-hyphen = -10;
+hyphen = -20;
 slash = -40;
 };
 "@MMK_L_X" = {
@@ -4072,22 +4072,22 @@ hyphen = -50;
 H = -60;
 T = -150;
 Y = -140;
-four = -150;
-nine = -140;
+four = -120;
+nine = -180;
 one = -90;
-seven = -200;
-seven.ss01 = -80;
+seven = -120;
+seven.ss01 = -110;
 };
 "@MMK_L_underscore" = {
 "@MMK_R_V" = -70;
 "@MMK_R_underscore" = 0;
 R = -50;
 T = -130;
-Y = -150;
-four = -150;
-nine = -150;
+Y = -180;
+four = -180;
+nine = -180;
 one = -90;
-seven = -150;
+seven = -180;
 seven.ss01 = -80;
 };
 A = {
@@ -4114,7 +4114,7 @@ K = {
 "@MMK_R_period" = 0;
 H = -140;
 colon = -40;
-hyphen = -100;
+hyphen = -140;
 };
 L = {
 "@MMK_R_V" = -60;
@@ -4124,7 +4124,7 @@ T = -140;
 Y = -150;
 backslash = -50;
 four = -135;
-hyphen = -100;
+hyphen = -180;
 };
 M.ss01 = {
 N.ss01 = 0;
@@ -4140,7 +4140,7 @@ T = {
 H = -140;
 J = -140;
 K = -90;
-hyphen = -100;
+hyphen = -140;
 slash = -60;
 };
 X = {
@@ -4148,14 +4148,14 @@ X = {
 H = -60;
 K = -60;
 colon = -20;
-hyphen = -50;
+hyphen = -60;
 };
 Y = {
 H = -10;
 };
 Z = {
 H = -35;
-hyphen = -30;
+hyphen = -40;
 };
 backslash = {
 "@MMK_R_V" = -40;
@@ -4174,18 +4174,20 @@ backslash = -40;
 seven = -130;
 };
 hyphen = {
-"@MMK_R_A" = -10;
-"@MMK_R_V" = -10;
+"@MMK_R_A" = -20;
+"@MMK_R_V" = -20;
 "@MMK_R_X" = -50;
-B = -80;
+B = -140;
 H = 10;
-J = -100;
+J = -180;
 K = 20;
 R = 10;
-T = -100;
-X = -50;
-Z = -40;
+T = -140;
+X = -60;
+Y = -20;
+Z = -60;
 backslash = -40;
+one = -80;
 seven = -150;
 seven.ss01 = -150;
 slash = -40;
@@ -4194,7 +4196,7 @@ three = -80;
 seven.ss01 = {
 "@MMK_R_period" = -120;
 "@MMK_R_underscore" = -120;
-hyphen = -30;
+hyphen = -40;
 slash = -60;
 };
 six = {
@@ -4211,6 +4213,9 @@ six = 0;
 };
 space = {
 C.ss01 = 0;
+};
+comma = {
+nine = -110;
 };
 };
 };
