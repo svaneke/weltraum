@@ -11,3 +11,7 @@ Released under the [SIL open font license](https://scripts.sil.org/OFL).
 * April 2021: Digital font based on the sketch
 * 2018: Sketchbook recovered
 * 2005: Idea and first sketch when in school
+
+---
+
+Header image credit: [NASA](https://images.nasa.gov/)
