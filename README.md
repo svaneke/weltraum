@@ -8,6 +8,6 @@ Released under the [SIL open font license](https://scripts.sil.org/OFL).
 
 ## History
 
-* April 2021: Created the digital font
-* 2018: Found that old sketchbook again
-* 2005: Idea and first sketch, probably in a boring class lesson.
+* April 2021: Digital font based on the sketch
+* 2018: Sketchbook recovered
+* 2005: Idea and first sketch when in school
