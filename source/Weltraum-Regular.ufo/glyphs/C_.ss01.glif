@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="C.ss01" format="2">
-	<advance width="580"/>
+	<advance width="570"/>
 	<outline>
 		<contour>
 			<point x="70" y="59.988" type="curve" smooth="yes"/>

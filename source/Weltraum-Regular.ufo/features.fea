@@ -19,7 +19,6 @@ feature ss01 {
 sub C by C.ss01;
 sub M by M.ss01;
 sub N by N.ss01;
-sub seven by seven.ss01;
 } ss01;
 
 feature ss02 {
