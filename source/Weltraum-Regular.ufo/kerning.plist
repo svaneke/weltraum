@@ -89,6 +89,8 @@
 		<integer>-90</integer>
 		<key>hyphen</key>
 		<integer>-100</integer>
+		<key>public.kern2.A</key>
+		<integer>-70</integer>
 		<key>public.kern2.period</key>
 		<integer>-150</integer>
 		<key>public.kern2.underscore</key>
