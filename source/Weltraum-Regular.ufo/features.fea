@@ -1,0 +1,29 @@
+# Prefix: Languagesystems
+# automatic
+languagesystem DFLT dflt;
+
+feature aalt {
+# automatic
+feature calt;
+feature ss01;
+feature ss02;
+} aalt;
+
+feature calt {
+sub L A' by A.left;
+sub A' J by A.right;
+} calt;
+
+feature ss01 {
+# automatic
+sub C by C.ss01;
+sub M by M.ss01;
+sub N by N.ss01;
+sub seven by seven.ss01;
+} ss01;
+
+feature ss02 {
+# automatic
+sub M by M.ss02;
+} ss02;
+
