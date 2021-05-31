@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="A_J.calt" format="2">
+	<advance width="413"/>
+	<note>
+		A_J.calt
+	</note>
+	<outline>
+		<contour>
+			<point x="452.62" y="660.17" type="curve" smooth="yes"/>
+			<point x="452.63" y="660.18" type="line"/>
+			<point x="513.51" y="246.9" type="line" smooth="yes"/>
+			<point x="514.29" y="241.56"/>
+			<point x="511.21" y="238.01"/>
+			<point x="505.82" y="238.01" type="curve" smooth="yes"/>
+			<point x="400.82" y="238.01" type="line" smooth="yes"/>
+			<point x="396.02" y="238.01"/>
+			<point x="392.44" y="241.18"/>
+			<point x="391.87" y="245.93" type="curve" smooth="yes"/>
+			<point x="348.84" y="599.99" type="line"/>
+			<point x="248.84" y="599.99" type="line"/>
+			<point x="176.81" y="7.93" type="line" smooth="yes"/>
+			<point x="176.24" y="3.18"/>
+			<point x="172.66" y="0.01"/>
+			<point x="167.86" y="0.01" type="curve" smooth="yes"/>
+			<point x="57.86" y="0.01" type="line" smooth="yes"/>
+			<point x="52.47" y="0.01"/>
+			<point x="49.39" y="3.56"/>
+			<point x="50.15" y="8.9" type="curve" smooth="yes"/>
+			<point x="144.22" y="660.16" type="line" smooth="yes"/>
+			<point x="149.39" y="696.05"/>
+			<point x="177.03" y="719.98"/>
+			<point x="213.29" y="719.98" type="curve" smooth="yes"/>
+			<point x="383.39" y="719.98" type="line" smooth="yes"/>
+			<point x="419.65" y="719.98"/>
+			<point x="447.34" y="696.06"/>
+		</contour>
+	</outline>
+</glyph>

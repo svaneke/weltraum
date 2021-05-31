@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="L_A.calt" format="2">
+	<advance width="413"/>
+	<note>
+		L_A.calt
+	</note>
+	<outline>
+		<contour>
+			<point x="-39.01" y="660.17" type="curve" smooth="yes"/>
+			<point x="-39" y="660.18" type="line"/>
+			<point x="-99.87" y="246.9" type="line" smooth="yes"/>
+			<point x="-100.65" y="241.56"/>
+			<point x="-97.58" y="238.01"/>
+			<point x="-92.18" y="238.01" type="curve" smooth="yes"/>
+			<point x="12.81" y="238.01" type="line" smooth="yes"/>
+			<point x="17.61" y="238.01"/>
+			<point x="21.19" y="241.18"/>
+			<point x="21.76" y="245.93" type="curve" smooth="yes"/>
+			<point x="64.79" y="599.99" type="line"/>
+			<point x="164.79" y="599.99" type="line"/>
+			<point x="236.82" y="7.93" type="line" smooth="yes"/>
+			<point x="237.39" y="3.18"/>
+			<point x="240.97" y="0.01"/>
+			<point x="245.77" y="0.01" type="curve" smooth="yes"/>
+			<point x="355.77" y="0.01" type="line" smooth="yes"/>
+			<point x="361.16" y="0.01"/>
+			<point x="364.24" y="3.56"/>
+			<point x="363.47" y="8.9" type="curve" smooth="yes"/>
+			<point x="269.4" y="660.16" type="line" smooth="yes"/>
+			<point x="264.23" y="696.05"/>
+			<point x="236.59" y="719.98"/>
+			<point x="200.33" y="719.98" type="curve" smooth="yes"/>
+			<point x="30.23" y="719.98" type="line" smooth="yes"/>
+			<point x="-6.03" y="719.98"/>
+			<point x="-33.72" y="696.06"/>
+		</contour>
+	</outline>
+</glyph>

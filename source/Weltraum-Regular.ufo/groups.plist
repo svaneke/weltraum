@@ -5,19 +5,20 @@
 	<key>public.kern1.A</key>
 	<array>
 		<string>A</string>
-		<string>A.left</string>
-		<string>M.ss02</string>
+		<string>L_A.calt</string>
+	</array>
+	<key>public.kern1.B</key>
+	<array>
+		<string>B</string>
+		<string>F_B.calt</string>
+		<string>L_B.calt</string>
 	</array>
 	<key>public.kern1.C</key>
 	<array>
 		<string>C</string>
 		<string>C.ss01</string>
 	</array>
-	<key>public.kern1.F</key>
-	<array>
-		<string>F</string>
-	</array>
-	<key>public.kern1.O</key>
+	<key>public.kern1.D</key>
 	<array>
 		<string>D</string>
 		<string>G</string>
@@ -36,13 +37,29 @@
 		<string>three</string>
 		<string>nine</string>
 	</array>
+	<key>public.kern1.F</key>
+	<array>
+		<string>F</string>
+		<string>F.calt</string>
+	</array>
+	<key>public.kern1.L</key>
+	<array>
+		<string>L</string>
+	</array>
 	<key>public.kern1.P</key>
 	<array>
 		<string>P</string>
+		<string>P.calt</string>
 	</array>
 	<key>public.kern1.R</key>
 	<array>
 		<string>R</string>
+		<string>R.calt</string>
+	</array>
+	<key>public.kern1.T</key>
+	<array>
+		<string>T</string>
+		<string>T.calt</string>
 	</array>
 	<key>public.kern1.V</key>
 	<array>
@@ -50,10 +67,34 @@
 		<string>W</string>
 		<string>Y</string>
 	</array>
+	<key>public.kern1.X</key>
+	<array>
+		<string>X</string>
+	</array>
+	<key>public.kern1.backslash</key>
+	<array>
+		<string>backslash</string>
+	</array>
+	<key>public.kern1.colon</key>
+	<array>
+		<string>colon</string>
+	</array>
+	<key>public.kern1.hyphen</key>
+	<array>
+		<string>hyphen</string>
+	</array>
 	<key>public.kern1.period</key>
 	<array>
 		<string>period</string>
 		<string>comma</string>
+	</array>
+	<key>public.kern1.seven</key>
+	<array>
+		<string>seven</string>
+	</array>
+	<key>public.kern1.slash</key>
+	<array>
+		<string>slash</string>
 	</array>
 	<key>public.kern1.underscore</key>
 	<array>
@@ -62,39 +103,75 @@
 	<key>public.kern2.A</key>
 	<array>
 		<string>A</string>
-		<string>A.right</string>
 		<string>M.ss02</string>
+		<string>A_J.calt</string>
 	</array>
-	<key>public.kern2.O</key>
+	<key>public.kern2.H</key>
 	<array>
-		<string>C</string>
-		<string>D</string>
-		<string>E</string>
-		<string>F</string>
-		<string>G</string>
-		<string>I</string>
-		<string>L</string>
-		<string>M</string>
-		<string>N</string>
-		<string>O</string>
-		<string>P</string>
-		<string>Q</string>
-		<string>S</string>
-		<string>U</string>
-		<string>M.ss01</string>
-		<string>N.ss01</string>
-		<string>zero</string>
-		<string>eight</string>
+		<string>H</string>
+	</array>
+	<key>public.kern2.J</key>
+	<array>
+		<string>J</string>
+	</array>
+	<key>public.kern2.K</key>
+	<array>
+		<string>K</string>
+	</array>
+	<key>public.kern2.R</key>
+	<array>
+		<string>R</string>
+	</array>
+	<key>public.kern2.T</key>
+	<array>
+		<string>T</string>
 	</array>
 	<key>public.kern2.V</key>
 	<array>
 		<string>V</string>
 		<string>W</string>
 	</array>
+	<key>public.kern2.X</key>
+	<array>
+		<string>X</string>
+	</array>
+	<key>public.kern2.Y</key>
+	<array>
+		<string>Y</string>
+	</array>
+	<key>public.kern2.colon</key>
+	<array>
+		<string>colon</string>
+	</array>
+	<key>public.kern2.hyphen</key>
+	<array>
+		<string>hyphen</string>
+	</array>
+	<key>public.kern2.nine</key>
+	<array>
+		<string>four</string>
+		<string>nine</string>
+	</array>
+	<key>public.kern2.one</key>
+	<array>
+		<string>one</string>
+	</array>
 	<key>public.kern2.period</key>
 	<array>
 		<string>period</string>
 		<string>comma</string>
+	</array>
+	<key>public.kern2.seven</key>
+	<array>
+		<string>seven</string>
+	</array>
+	<key>public.kern2.six</key>
+	<array>
+		<string>six</string>
+	</array>
+	<key>public.kern2.slash</key>
+	<array>
+		<string>slash</string>
 	</array>
 	<key>public.kern2.underscore</key>
 	<array>

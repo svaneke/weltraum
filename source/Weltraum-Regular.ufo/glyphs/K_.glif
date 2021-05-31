@@ -2,15 +2,18 @@
 <glyph name="K" format="2">
 	<advance width="491"/>
 	<unicode hex="004B"/>
+	<note>
+		K
+	</note>
 	<outline>
 		<contour>
-			<point x="286.316" y="6.486" type="curve" smooth="yes"/>
-			<point x="66.394" y="310.993" type="line" smooth="yes"/>
-			<point x="45.158" y="340.397"/>
-			<point x="45.158" y="379.603"/>
-			<point x="66.394" y="409.007" type="curve" smooth="yes"/>
-			<point x="286.316" y="713.514" type="line" smooth="yes"/>
-			<point x="289.126" y="717.406"/>
+			<point x="286.32" y="6.49" type="curve" smooth="yes"/>
+			<point x="66.39" y="310.99" type="line" smooth="yes"/>
+			<point x="45.16" y="340.4"/>
+			<point x="45.16" y="379.6"/>
+			<point x="66.39" y="409.01" type="curve" smooth="yes"/>
+			<point x="286.32" y="713.51" type="line" smooth="yes"/>
+			<point x="289.13" y="717.41"/>
 			<point x="294.2" y="720"/>
 			<point x="299" y="720" type="curve" smooth="yes"/>
 			<point x="451" y="720" type="line"/>
@@ -18,7 +21,7 @@
 			<point x="451" y="0" type="line"/>
 			<point x="299" y="0" type="line" smooth="yes"/>
 			<point x="294.2" y="0"/>
-			<point x="289.126" y="2.594"/>
+			<point x="289.13" y="2.59"/>
 		</contour>
 	</outline>
 </glyph>

@@ -6,10 +6,8 @@
 	<string>_notdef.glif</string>
 	<key>A</key>
 	<string>A_.glif</string>
-	<key>A.left</key>
-	<string>A_.left.glif</string>
-	<key>A.right</key>
-	<string>A_.right.glif</string>
+	<key>A_J.calt</key>
+	<string>A__J_.calt.glif</string>
 	<key>B</key>
 	<string>B_.glif</string>
 	<key>C</key>
@@ -22,6 +20,10 @@
 	<string>E_.glif</string>
 	<key>F</key>
 	<string>F_.glif</string>
+	<key>F.calt</key>
+	<string>F_.calt.glif</string>
+	<key>F_B.calt</key>
+	<string>F__B_.calt.glif</string>
 	<key>G</key>
 	<string>G_.glif</string>
 	<key>H</key>
@@ -34,6 +36,10 @@
 	<string>K_.glif</string>
 	<key>L</key>
 	<string>L_.glif</string>
+	<key>L_A.calt</key>
+	<string>L__A_.calt.glif</string>
+	<key>L_B.calt</key>
+	<string>L__B_.calt.glif</string>
 	<key>M</key>
 	<string>M_.glif</string>
 	<key>M.ss01</key>
@@ -48,14 +54,20 @@
 	<string>O_.glif</string>
 	<key>P</key>
 	<string>P_.glif</string>
+	<key>P.calt</key>
+	<string>P_.calt.glif</string>
 	<key>Q</key>
 	<string>Q_.glif</string>
 	<key>R</key>
 	<string>R_.glif</string>
+	<key>R.calt</key>
+	<string>R_.calt.glif</string>
 	<key>S</key>
 	<string>S_.glif</string>
 	<key>T</key>
 	<string>T_.glif</string>
+	<key>T.calt</key>
+	<string>T_.calt.glif</string>
 	<key>U</key>
 	<string>U_.glif</string>
 	<key>V</key>

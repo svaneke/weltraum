@@ -2,26 +2,33 @@
 <glyph name="T" format="2">
 	<advance width="560"/>
 	<unicode hex="0054"/>
+	<note>
+		T
+	</note>
 	<outline>
 		<contour>
-			<point x="60" y="710.999" type="curve" smooth="yes"/>
+			<point x="60" y="711" type="curve" smooth="yes"/>
 			<point x="60" y="605" type="line" smooth="yes"/>
-			<point x="60" y="600.2"/>
-			<point x="63.2" y="597"/>
+			<point x="60" y="600"/>
+			<point x="63" y="597"/>
 			<point x="68" y="597" type="curve" smooth="yes"/>
-			<point x="490.997" y="597" type="line" smooth="yes"/>
-			<point x="496.399" y="597"/>
+			<point x="491" y="597" type="line" smooth="yes"/>
+			<point x="496.4" y="597"/>
 			<point x="500" y="600.6"/>
-			<point x="500" y="606.001" type="curve" smooth="yes"/>
+			<point x="500" y="606" type="curve" smooth="yes"/>
 			<point x="500" y="712" type="line" smooth="yes"/>
 			<point x="500" y="716.8"/>
 			<point x="496.8" y="720"/>
 			<point x="492" y="720" type="curve" smooth="yes"/>
-			<point x="69.003" y="720" type="line" smooth="yes"/>
-			<point x="63.601" y="720"/>
-			<point x="60" y="716.4"/>
+			<point x="69" y="720" type="line" smooth="yes"/>
+			<point x="64" y="720"/>
+			<point x="60" y="716"/>
 		</contour>
 		<contour>
+			<point x="220" y="8" type="curve" smooth="yes"/>
+			<point x="220" y="467" type="line" smooth="yes"/>
+			<point x="220" y="471.8"/>
+			<point x="223.2" y="475"/>
 			<point x="228" y="475" type="curve" smooth="yes"/>
 			<point x="332" y="475" type="line" smooth="yes"/>
 			<point x="336.8" y="475"/>
@@ -34,10 +41,6 @@
 			<point x="228" y="0" type="line" smooth="yes"/>
 			<point x="223.2" y="0"/>
 			<point x="220" y="3.2"/>
-			<point x="220" y="8" type="curve" smooth="yes"/>
-			<point x="220" y="467" type="line" smooth="yes"/>
-			<point x="220" y="471.8"/>
-			<point x="223.2" y="475"/>
 		</contour>
 	</outline>
 </glyph>

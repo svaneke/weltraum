@@ -10,8 +10,14 @@ feature ss02;
 } aalt;
 
 feature calt {
-sub L A' by A.left;
-sub A' J by A.right;
+sub L A' by L_A.calt;
+sub A' J by A_J.calt;
+sub T R' by R.calt;
+sub T P' by P.calt;
+sub L B' by L_B.calt;
+sub [T P R F] B' by F_B.calt;
+sub F F' by F.calt;
+sub T T' by T.calt;
 } calt;
 
 feature ss01 {

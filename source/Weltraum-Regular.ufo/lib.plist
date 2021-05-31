@@ -4,75 +4,12 @@
 <dict>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
-	<key>com.schriftgestaltung.font.userData</key>
-	<dict>
-		<key>GSDimensionPlugin.Dimensions</key>
-		<dict>
-			<key>6F88C01E-B907-4531-B067-43292AD644AF</key>
-			<dict/>
-		</dict>
-	</dict>
-	<key>com.schriftgestaltung.fontMaster.customParameters</key>
-	<array>
-		<dict>
-			<key>name</key>
-			<string>subscriptXOffset</string>
-			<key>value</key>
-			<integer>0</integer>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>subscriptXSize</string>
-			<key>value</key>
-			<integer>650</integer>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>subscriptYOffset</string>
-			<key>value</key>
-			<integer>75</integer>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>subscriptYSize</string>
-			<key>value</key>
-			<integer>600</integer>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>superscriptXOffset</string>
-			<key>value</key>
-			<integer>0</integer>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>superscriptXSize</string>
-			<key>value</key>
-			<integer>650</integer>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>superscriptYOffset</string>
-			<key>value</key>
-			<integer>350</integer>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>superscriptYSize</string>
-			<key>value</key>
-			<integer>600</integer>
-		</dict>
-	</array>
 	<key>com.schriftgestaltung.fontMasterID</key>
-	<string>6F88C01E-B907-4531-B067-43292AD644AF</string>
+	<string>m01</string>
 	<key>com.schriftgestaltung.glyphOrder</key>
 	<false/>
-	<key>com.schriftgestaltung.gridSize</key>
-	<integer>0</integer>
 	<key>com.schriftgestaltung.useNiceNames</key>
-	<true/>
-	<key>com.schriftgestaltung.weightValue</key>
-	<integer>100</integer>
+	<false/>
 	<key>public.glyphOrder</key>
 	<array>
 		<string>A</string>
@@ -101,12 +38,18 @@
 		<string>X</string>
 		<string>Y</string>
 		<string>Z</string>
-		<string>A.left</string>
-		<string>A.right</string>
+		<string>F.calt</string>
+		<string>P.calt</string>
+		<string>R.calt</string>
+		<string>T.calt</string>
 		<string>C.ss01</string>
 		<string>M.ss01</string>
 		<string>N.ss01</string>
 		<string>M.ss02</string>
+		<string>A_J.calt</string>
+		<string>F_B.calt</string>
+		<string>L_A.calt</string>
+		<string>L_B.calt</string>
 		<string>zero</string>
 		<string>one</string>
 		<string>two</string>
